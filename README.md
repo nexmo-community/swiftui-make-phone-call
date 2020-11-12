@@ -2,7 +2,7 @@
 
 <img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
 
-This is a SwiftUI project that uses the [Client SDK](https://developer.nexmo.com/client-sdk/overview) to make calls to a specified phone number. Check out the accompanying blog post for more information.
+This is a SwiftUI project that uses the [Client SDK](https://developer.nexmo.com/client-sdk/overview) to make calls to a specified phone number. Check out the accompanying [blog post](https://www.nexmo.com/blog/2020/11/11/how-to-make-phone-calls-with-swiftui) for more information.
 
 ## Welcome to Vonage
 
